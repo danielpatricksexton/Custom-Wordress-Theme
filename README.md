@@ -1,5 +1,6 @@
 # Custom Wordress Theme
-<b>Wordpress theme created for a personal food blog. Created using HTML, CSS, JavaScript and PHP.</b>
+<b>Wordpress theme created for a personal food blog. Created using HTML, CSS, JavaScript and PHP.</b><br>
+<b>Running on Flywheel. Features expandable search bar and hover effects</b>
 
 <img src="danskuEatsScreenshots/Screenshot2.png" width=700>
 <img src="danskuEatsScreenshots/Screenshot3.png" width=700>
