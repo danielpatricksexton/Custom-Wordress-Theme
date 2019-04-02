@@ -1,4 +1,4 @@
-# Custom-Wordress-Theme
+# Custom Wordress Theme
 Wordpress theme created for a personal food blog. Created using HTML, CSS, JavaScript and PHP.
 
 <img src="danskuEatsScreenshots/Screenshot2.png" width=700>
