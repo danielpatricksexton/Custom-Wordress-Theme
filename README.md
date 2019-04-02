@@ -8,4 +8,5 @@ Wordpress theme created for a personal food blog. Created using HTML, CSS, JavaS
 <br>
 <b>Mobile optimized by @media queries</b>
 <br>
+<br>
 <img src="danskuEatsScreenshots/Screenshot5.png" width=350><img src="danskuEatsScreenshots/Screenshot6.png" width=350>
